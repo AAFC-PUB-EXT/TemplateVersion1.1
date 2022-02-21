@@ -1,0 +1,29 @@
+{
+  "name": "dynamictest",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@dynamic11/wet-react": "^0.3.2",
+    "@types/datatables.net": "^1.10.21",
+    "@types/jest": "^27.4.0",
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.11",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-intl": "^5.24.6",
+    "react-router-dom": "^6.2.1"
+
+    
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.1.0"
+  }
+}
